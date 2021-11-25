@@ -17,10 +17,20 @@ Manage users and policies
 ---
 
 - Configure the HTPasswd identity provider for authentication
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.6/html-single/authentication_and_authorization/index#identity-provider-creating-htpasswd-file-linux_configuring-htpasswd-identity-provider
+
+authentication_and_authorization- 5.1.5. Sample HTPasswd CR
+6.10. Cluster role binding commands
+6.11. Creating a cluster admin
+
+
 - Create and delete users
 - Modify user passwords
 - Modify user and group permissions
 - Create and manage groups
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.6/html-single/authentication_and_authorization/index#using-rbac
+
+
 
 Control access to resources
 ---
